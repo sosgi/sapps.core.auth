@@ -20,7 +20,7 @@
       "lib": "dist"
     },
     "dependencies": {
-      "sjs-logging": "github:smialy/sjs-logging@0.3.0",
+      "sjs-logging": "github:smialy/sjs-logging@1.0.0",
       "sosgi.framework": "github:sosgi/framework@1.0.0",
       "sapps.core.api": "github:sosgi/sapps.core.api@master"
     }
