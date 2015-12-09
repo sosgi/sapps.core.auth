@@ -21,7 +21,7 @@
     },
     "dependencies": {
       "sjs-logging": "github:smialy/sjs-logging@1.0.0",
-      "sosgi.framework": "github:sosgi/framework@1.0.0",
+      "sosgi.framework": "github:sosgi/framework@master",
       "sapps.core.api": "github:sosgi/sapps.core.api@master"
     }
   }
